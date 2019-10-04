@@ -6,7 +6,7 @@ School project aiming at the creation of a videos site such as for example: http
 
 Deploy with heroku
 
-https://prod-titube.herokuapp.com
+https://dev-titube.herokuapp.com/
 
 ## Getting Started 
 
